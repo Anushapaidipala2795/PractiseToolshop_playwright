@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "Regression":"npx playwright test test/Toolshop.spec.js"
+    "Regression":"npx playwright test tests/Toolshop.spec.js"
   },
   "keywords": [],
   "author": "",
